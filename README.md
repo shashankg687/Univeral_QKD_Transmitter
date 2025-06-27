@@ -1,1 +1,9 @@
 # Univeral_QKD_Transmitter
+
+Quantum key distribution (QKD) has been convincingly demonstrated to be compatible with real-world applications, paving the way for its extensive deployment in optical networks. The advancement of this technology will greatly benefit from an optical platform that supports miniature devices capable of encoding complex quantum signals at high rates while maintaining low power consumption. While photonic integration is the optimal path toward miniaturization, a highly efficient method for high-speed encoding of quantum phase states on a chip has yet to be realized. 
+
+Currently, existing devices rely on bulky, high-power phase modulation elements, which impede the desired scalability and energy efficiency. To address this challenge, we present a novel approach to high-speed phase encoding, showcasing a compact, scalable, and power-efficient integrated quantum transmitter. This universal QKD transmitter is capable of performing both DV and CV QKD protocols, enabling flexible operation across different quantum communication scenarios.
+
+We achieve on-demand cryptographic key encoding in high repetition rate pulse streams through injection-locking with deterministic phase control at the seed laser. Our results demonstrate record secure-key rates under multi-protocol operation, highlighting the versatility of our design. These modulator-free transmitters are set to revolutionize high-bit rate quantum communications, which are essential for the practical integration of QKD in high-connectivity networks.
+
+By combining the strengths of both DV and CV QKD, our universal transmitter not only enhances the security of quantum communications but also facilitates broader applications in various networking environments, making it a pivotal advancement in the field of quantum cryptography.
